@@ -1,4 +1,4 @@
 # GeneralizationKids-
-Code to replicate results form Mariscal et al., 2021 
+Code to replicate results form Mariscal et al., in prep
 
 This code depends on SML labtools 
